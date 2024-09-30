@@ -1,0 +1,25 @@
+body{
+    background-image: url('pexels-adriendrj-26152664 (1).jpg');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+
+}
+
+.background{
+    background-color: rgba(240, 248, 255, 0.61) !important;
+    padding: 5%;
+}
+.slider{
+    background-color: rgba(240, 248, 255, 0.473);
+    padding: 2%;
+}
+#hover-effect {
+    transition: all 0.3s;
+}
+
+#hover-effect:hover {
+    transform: scale(1.05); 
+
+}
+

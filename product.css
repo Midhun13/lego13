@@ -1,0 +1,17 @@
+body{
+background-color: rgba(197, 245, 245, 0.384);
+
+
+}
+.background{
+    background-color: rgba(240, 248, 255, 0) !important;
+    padding: 5%;
+}
+#hov{
+    transition: all 1s;
+}
+
+#hov:hover {
+    transform: scale(1.05);
+    box-shadow: 10px 10px lightblue;
+}
